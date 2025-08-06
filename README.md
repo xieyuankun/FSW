@@ -8,7 +8,7 @@
 
 This is the dataset repo of our work titled “Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform”, which was available on arxiv at "https://arxiv.org/".
 
-This repository describes a dataset of audio samples collected from publicly accessible online media sources. The data was originally crawled for research purposes and includes unaltered/raw audio files to reduce the burden of manual downloading.
+This repository describes a dataset of audio samples collected and processed from publicly accessible online media sources. The data was originally collected for research purposes and includes raw audio files to reduce the burden of manual downloading.
 
 ⚠️ **Although original audio files are provided, usage is strictly controlled.** Access is granted solely for academic research under the conditions outlined below.
 
