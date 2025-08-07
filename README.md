@@ -20,7 +20,7 @@ To protect the rights of original content owners and ensure responsible usage, *
 
 Researchers must request access by completing the form linked below:
 
-👉 **[Google Drive Access Request Form](https://your-google-drive-link-here)**
+👉 **[Google Drive Access Request Form](https://drive.google.com/file/d/1x-KM_1aAjAOv0N2BS0jr8qD7P-0no-QK/view?usp=sharing)**
 
 Applicants must provide:
 - Full name  
