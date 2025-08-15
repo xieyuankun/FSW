@@ -75,12 +75,15 @@ We do **not** claim ownership of the original media. This dataset is distributed
 ## 📌 Citation
 
 If you use this dataset, please cite:
-@article{xie2025fakespeechwilddetecting,
+
+```
+@article{xie2025fsw,
   title={Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform},
   author={Yuankun Xie and Ruibo Fu and Xiaopeng Wang and Zhiyong Wang and Ya Li and Zhengqi Wen and Haonnan Cheng and Long Ye},
   journal={arXiv preprint arXiv:2508.10559},
   year={2025}
 }
+```
 
 
 
