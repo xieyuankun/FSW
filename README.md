@@ -10,7 +10,9 @@ This is the dataset repo of our work titled “Fake Speech Wild: Detecting Deepf
 
 This repository describes a dataset of audio samples collected and processed from publicly accessible online media sources. The data was originally collected for research purposes and includes raw audio files to reduce the burden of manual downloading.
 
+
 ⚠️ **Although original audio files are provided, usage is strictly controlled.** Access is granted solely for academic research under the conditions outlined below.
+
 
 ---
 
@@ -77,9 +79,9 @@ We do **not** claim ownership of the original media. This dataset is distributed
 If you use this dataset, please cite:
 
 ```
-@article{xie2025fsw,
+@article{xie2025fake,
   title={Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform},
-  author={Yuankun Xie and Ruibo Fu and Xiaopeng Wang and Zhiyong Wang and Ya Li and Zhengqi Wen and Haonnan Cheng and Long Ye},
+  author={Xie, Yuankun and Fu, Ruibo and Wang, Xiaopeng and Wang, Zhiyong and Li, Ya and Wen, Zhengqi and Cheng, Haonnan and Ye, Long},
   journal={arXiv preprint arXiv:2508.10559},
   year={2025}
 }
